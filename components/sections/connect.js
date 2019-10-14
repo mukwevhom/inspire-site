@@ -8,7 +8,7 @@ export default function Connect() {
                 <div className="sectionHeader">
                     <h3>Connect with us</h3>
                 </div>
-                <div className="sectionContent pt-3">
+                <div className="sectionContent mt-5">
                     <ul>
                         <li>
                             <Link href="#">
@@ -54,6 +54,14 @@ export default function Connect() {
                     }
                     #connectWithUs .sectionContent ul li:last-of-type {
                         margin-right:0;
+                    }
+
+                    #connectWithUs .sectionContent ul li a {
+                        color:#000;
+                    }
+
+                    #connectWithUs .sectionContent ul li a:hover {
+                        color:#f1592c;
                     }
                 `}
             </style>

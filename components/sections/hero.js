@@ -14,6 +14,18 @@ export default function Hero() {
                 {`
                     #heroSection {
                         height:100vh;
+                        background-image:url(https://res.cloudinary.com/dbu3hvhtr/image/upload/v1571067239/InspireAcademy/priscilla-du-preez-ggeZ9oyI-PE-unsplash_hpdlkj.jpg);
+                        background-size:cover;
+                    }
+
+                    #heroSection:before {
+                        display: block;
+                        position: absolute;
+                        width: 100%;
+                        height: 100%;
+                        content: "";
+                        background-color: #f1592c;
+                        opacity: 0.2;
                     }
 
                     .container {
