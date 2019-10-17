@@ -2,6 +2,7 @@ import React from 'react';
 import Head from 'next/head';
 import Header from './Header';
 import Footer from './Footer';
+import Connect from './sections/connect';
 
 export default function Layout(props) {
     return (
@@ -12,6 +13,7 @@ export default function Layout(props) {
             </Head>
             <Header />
             {props.children}
+            <Connect/>
             <Footer />
             <style jsx>
                 {`

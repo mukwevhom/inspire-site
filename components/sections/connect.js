@@ -11,7 +11,7 @@ export default function Connect() {
                 <div className="sectionContent mt-5">
                     <ul>
                         <li>
-                            <Link href="#">
+                            <Link href="https://twitter.com/MYINSPIREACa">
                                 <a><featherIcons.Twitter/></a>
                             </Link>
                         </li>
@@ -21,17 +21,17 @@ export default function Connect() {
                             </Link>
                         </li>
                         <li>
-                            <Link href="#">
+                            <Link href="https://instagram.com/myinspireacademy">
                                 <a><featherIcons.Instagram/></a>
                             </Link>
                         </li>
                         <li>
-                            <Link href="#">
+                            <Link href="mailto:admin@inspireacademy.co.za">
                                 <a><featherIcons.Mail/></a>
                             </Link>
                         </li>
                         <li>
-                            <Link href="#">
+                            <Link href="tel:+27761293655">
                                 <a><featherIcons.Phone/></a>
                             </Link>
                         </li>
@@ -41,6 +41,7 @@ export default function Connect() {
             <style jsx>
                 {`
                     #connectWithUs {
+                        border-top: 2px solid #f3f3f3;
                     }
                     #connectWithUs .sectionContent {
                     }

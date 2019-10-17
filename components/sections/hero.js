@@ -2,7 +2,7 @@ export default function Hero() {
     return (
         <section className="sectionWrapper" id="heroSection">
             <div className="container">
-                <div className="heroContent text-center">
+                <div className="heroContent text-center w-md-75 w-100">
                     <figure className="logo">
                         <img src="https://res.cloudinary.com/dbu3hvhtr/image/upload/v1570508944/InspireAcademy/IA_Logo_1_se50ll.png" width="250px" />
                     </figure>
@@ -16,6 +16,7 @@ export default function Hero() {
                         height:100vh;
                         background-image:url(https://res.cloudinary.com/dbu3hvhtr/image/upload/v1571067239/InspireAcademy/priscilla-du-preez-ggeZ9oyI-PE-unsplash_hpdlkj.jpg);
                         background-size:cover;
+                        background-position:center top;
                     }
 
                     #heroSection:before {
@@ -38,6 +39,11 @@ export default function Hero() {
                         top:50%;
                         left:50%;
                         transform:translate(-50%,-50%);
+                    }
+
+                    h1,
+                    p {
+                        color:#fff;
                     }
                 `}
             </style>

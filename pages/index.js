@@ -1,18 +1,18 @@
 import Layout from '../components/Layout.js';
 import Hero from '../components/sections/hero';
-import Connect from '../components/sections/connect';
 import AboutUs from '../components/sections/aboutUs';
 import Services from '../components/sections/services';
+import JoinUs from '../components/sections/joinUs';
 
 // import '../assets/styles/styles.scss';
 
-export default function Blog() {
+export default function Index() {
     return (
         <Layout>
             <Hero/>
             <AboutUs />
             <Services />
-            <Connect/>
+            <JoinUs />
         </Layout>
     );
 }
