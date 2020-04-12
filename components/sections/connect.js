@@ -16,7 +16,7 @@ export default function Connect() {
                             </Link>
                         </li>
                         <li>
-                            <Link href="#">
+                            <Link href="https://www.facebook.com/myinspireacademy100/">
                                 <a><featherIcons.Facebook/></a>
                             </Link>
                         </li>
