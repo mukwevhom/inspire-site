@@ -12,14 +12,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@statickit/react": "^1.0.1",
+    "@statickit/react": "^1.2.0",
     "@zeit/next-css": "^1.0.1",
     "@zeit/next-sass": "^1.0.1",
-    "next": "^9.0.7",
-    "node-sass": "^4.12.0",
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2",
-    "react-feather": "^2.0.3",
-    "semantic-ui-react": "^0.88.1"
+    "next": "^9.3.4",
+    "node-sass": "^4.13.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-feather": "^2.0.4",
+    "semantic-ui-react": "^0.88.2"
   }
 }
