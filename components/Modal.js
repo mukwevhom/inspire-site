@@ -7,7 +7,7 @@ export default function JoinUsModal() {
         <Modal trigger={<Button className="btn cta w-25">Join Us</Button>}>
             <Modal.Content >
             <Modal.Description>
-                <Header>Default Profile Image</Header>
+                <Header>Join Us Modal</Header>
                 <MyForm />
             </Modal.Description>
             </Modal.Content>
