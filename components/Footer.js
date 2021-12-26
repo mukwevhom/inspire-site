@@ -3,7 +3,7 @@ export default function Footer() {
         <footer>
             <div className="container text-center pt-3 pb-3">
                 <h3>Inspire Academy</h3>
-                <p>&copy; 2019 Inspire Academy. All rights reserved.</p>
+                <p>&copy; {new Date().getFullYear()} Inspire Academy. All rights reserved.</p>
             </div>
             <style jsx>
                 {`
