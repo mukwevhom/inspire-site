@@ -8,7 +8,7 @@ export default function AboutUs2(){
                 <div className="sectionContent mt-5">
                     <div className="row">
                         <div className="col-md-6 col-12">
-                            <figure><img src="https://res.cloudinary.com/dbu3hvhtr/image/upload/v1571066702/InspireAcademy/Books_fdf3r2.png" /></figure>
+                            <figure><img src="https://fileboxer.imgix.net/inspireacademy/Books_fdf3r2.png" /></figure>
                             <div className="block-content mt-3">
                                 <h3>About Us</h3>
                                 <p>Inspire Academy is an education institution that exists for the cause of inspiring people to pursue and happily engage in endeavors that fulfill and inspire them.</p>
@@ -22,7 +22,7 @@ export default function AboutUs2(){
                             </div>
                         </div>
                         <div className="col-md-6 col-12 mt-md-0 mt-5">
-                            <figure><img src="https://res.cloudinary.com/dbu3hvhtr/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1571146627/InspireAcademy/ian-schneider-TamMbr4okv4-unsplash_h6p3ql.jpg" /></figure>
+                            <figure><img src="https://fileboxer.imgix.net/inspireacademy/ian-schneider-TamMbr4okv4-unsplash_h6p3ql.jpg" /></figure>
                             <div className="block-content mt-3">
                                 <h3>Our Vision</h3>
                                 <p>We as Inspire Academy strive to be leaders in the cause of inspiring people through education and fulfillment of their purposes.</p>

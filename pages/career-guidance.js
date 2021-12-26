@@ -23,7 +23,7 @@ export default function CareerGuidance() {
                         </div>
                         <div className="col-12 col-md-6">
                             <figure>
-                                <img src="https://res.cloudinary.com/dbu3hvhtr/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1571068784/InspireAcademy/career%20guidance.jpg" />
+                                <img src="https://fileboxer.imgix.net/inspireacademy/career%20guidance.jpg" />
                             </figure>
                         </div>
                     </div>

@@ -24,7 +24,7 @@ export default function Tutoring() {
                         </div>
                         <div className="col-12 col-md-6">
                             <figure>
-                                <img src="https://res.cloudinary.com/dbu3hvhtr/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1571068505/InspireAcademy/tutoring.jpg" />
+                                <img src="https://fileboxer.imgix.net/inspireacademy/tutoring.jpg" />
                             </figure>
                         </div>
                     </div>

@@ -4,7 +4,7 @@ export default function Header() {
     return (
         <nav>
             <div className="container">
-                <a href="/" className="siteLogo"><img src="https://res.cloudinary.com/dbu3hvhtr/image/upload/v1571064414/InspireAcademy/IA_Color_Icon_fvnvwl.png" alt="Inspire Academy" /></a>
+                <a href="/" className="siteLogo"><img src="https://fileboxer.imgix.net/inspireacademy/IA_Color_Icon_fvnvwl.png" alt="Inspire Academy" /></a>
                 <div className="site-nav float-md-right">
                     <ul>
                         <li>

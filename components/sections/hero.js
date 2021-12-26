@@ -4,7 +4,7 @@ export default function Hero() {
             <div className="container">
                 <div className="heroContent text-center w-md-75 w-100">
                     <figure className="logo">
-                        <img src="https://res.cloudinary.com/dbu3hvhtr/image/upload/v1570508944/InspireAcademy/IA_Logo_1_se50ll.png" width="250px" />
+                        <img src="https://fileboxer.imgix.net/inspireacademy/IA_Logo_1_se50ll.png" width="250px" />
                     </figure>
                     <h1>Hello. We are Inspire Academy</h1>
                     <p>We provide you with Educational Solutions</p>
@@ -14,7 +14,7 @@ export default function Hero() {
                 {`
                     #heroSection {
                         height:100vh;
-                        background-image:url(https://res.cloudinary.com/dbu3hvhtr/image/upload/v1571067239/InspireAcademy/priscilla-du-preez-ggeZ9oyI-PE-unsplash_hpdlkj.jpg);
+                        background-image:url(https://fileboxer.imgix.net/inspireacademy/priscilla-du-preez-ggeZ9oyI-PE-unsplash_hpdlkj.jpg);
                         background-size:cover;
                         background-position:center top;
                     }

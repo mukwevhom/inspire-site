@@ -11,7 +11,7 @@ export default function AboutUs() {
                 <div className="sectionContent mt-5">
                     <div className="row">
                         <div className="col-md-6 col-12">
-                            <figure><img src="https://res.cloudinary.com/dbu3hvhtr/image/upload/v1571066702/InspireAcademy/Books_fdf3r2.png" /></figure>
+                            <figure><img src="https://fileboxer.imgix.net/inspireacademy/Books_fdf3r2.png" /></figure>
                         </div>
                         <div className="col-md-6 col-12 position-relative order-md-first">
                             <div className="block-content">
@@ -29,7 +29,7 @@ export default function AboutUs() {
                     </div>
                     <div className="row mt-5">
                         <div className="col-md-6 col-12">
-                            <figure><img src="https://res.cloudinary.com/dbu3hvhtr/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1571146627/InspireAcademy/ian-schneider-TamMbr4okv4-unsplash_h6p3ql.jpg" /></figure>
+                            <figure><img src="https://fileboxer.imgix.net/inspireacademy/ian-schneider-TamMbr4okv4-unsplash_h6p3ql.jpg" /></figure>
                         </div>
                         <div className="col-md-6 col-12 position-relative">
                             <div className="block-content">
