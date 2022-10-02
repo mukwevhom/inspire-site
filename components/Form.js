@@ -1,9 +1,7 @@
-import { ValidationError, useForm } from '@statickit/react';
+import { ValidationError, useForm } from '@formspree/react';
 
 export default function MyForm() {
-    const [state, submit] = useForm({
-        id: 'e722fcb74b64'
-    });
+    const [state, submit] = useForm("mwkzbvdo");
 
     if (state.succeeded) {
         return (
